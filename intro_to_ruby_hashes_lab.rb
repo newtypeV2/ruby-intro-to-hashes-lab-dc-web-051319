@@ -1,5 +1,5 @@
 def new_hash
-
+lear
 end
 
 def actor
